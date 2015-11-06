@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/TakesxiSximada/bootstrap-example/issues"
   },
-  "homepage": "https://github.com/TakesxiSximada/bootstrap-example#readme"
+  "homepage": "https://github.com/TakesxiSximada/bootstrap-example#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.5",
+    "webpack": "^1.12.3"
+  }
 }
